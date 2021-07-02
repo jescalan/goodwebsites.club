@@ -1,4 +1,4 @@
-import s from "./style.module.css";
+import s from './style.module.css'
 
 export default function IndexPage() {
   return (
@@ -7,11 +7,11 @@ export default function IndexPage() {
       <p>
         We are an open community of web developers aiming to build great
         websites at any scale. Lots more goodness coming here soon. Want to get
-        involved?{" "}
+        involved?{' '}
         <a href="https://join.slack.com/t/newworkspace-mqe4911/shared_invite/zt-shzvrkyb-YTxPXyvwJwFpOZJAaZES8w">
           Join our community on slack
         </a>
       </p>
     </main>
-  );
+  )
 }
