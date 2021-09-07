@@ -1,3 +1,4 @@
+import FrankTaillandierTribute from 'components/frank-tribute'
 import Head from 'next/head'
 import s from './style.module.css'
 
@@ -18,6 +19,7 @@ export default function IndexPage() {
           </a>
         </p>
       </main>
+      <FrankTaillandierTribute />
     </>
   )
 }
